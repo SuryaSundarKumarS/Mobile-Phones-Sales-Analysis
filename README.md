@@ -31,3 +31,8 @@
 - Add Month column as Slicer and add some informative KPI.
 - Add Bar chart, Pie chart, Column chart, Cards, Matrix chart, Donut chart etc
 
+# Conclusion:
+- Analyzed sales data to identify trends and insights using Power Query and DAX in Power BI.
+- Created an interactive dashboard to track turnover of each brand and reasons for decrease in sales.
+- Discovered that sales are decreasing in the period of 2019-2020 due to pandemic and every year end due to the clearance sales with less inventory cost making huge profit.
+- Provided visualizations and actionable insights to the Brands to address the issue and take necessary measures.
