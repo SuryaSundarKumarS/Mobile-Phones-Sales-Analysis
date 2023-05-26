@@ -27,7 +27,7 @@
 - Design the dashboard layout
 - Create a measure table to aggregate and display the data using Dax functions
 - Use Visulizations for charts and filters for filter dashboard
-- Now, Add Title HR Dashboard
+- Now, Add Title Mobile Phone Sale Analysis Dashboard
 - Add Month column as Slicer and add some informative KPI.
 - Add Bar chart, Pie chart, Column chart, Cards, Matrix chart, Donut chart etc
 
