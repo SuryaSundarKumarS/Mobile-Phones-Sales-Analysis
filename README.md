@@ -1,5 +1,5 @@
 # Mobile-Phones-Sales-Analysis
-- Interact with the dashboard (https://www.novypro.com/project/mobile-phone-sales-analysis-13)
+- Interact with the dashboard (https://www.novypro.com/project/mobile-phone-sales-analysis-power-bi-4)
 - This project highlights my ability to use data visualization and analytics tools to identify key insights and provide actionable recommendations.
 
 - Mobile Phones Sales Analysis aim to provide insight into how best to manage sales and reach business goals. The objective is to monitor key areas where the sales and margin amount is less.Created several reports with information on following factors which will help the organization determine what action they will need to take to on the regions where salese are getting decreased periodically.
